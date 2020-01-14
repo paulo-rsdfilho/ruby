@@ -2,4 +2,4 @@
 clear;
 echo "Hello world";
 exit;
-echo "testando"
+echo "testando2"
